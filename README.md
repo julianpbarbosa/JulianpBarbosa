@@ -1,14 +1,16 @@
-###  Oi! Sou o Julian, tudo certo?
+### Salve! Eu sou o Julian, tudo certo?
 
-Sou estudante de programação e tecnologia em geral.<br>
+Sou estudante de programação e tecnologia, sempre curioso e em constante evolução. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIBF.
 
-Já conheço os principais conceitos e linguagens de marcação e programação no  front-end, como: HTML, CSS e JS. 😌<br>
-No momento estou estudando conceitos de back-end, aprofundando melhor a lógica de programação, criando funções e pequenos procedimentos. Estou usando a linguagem PHP. 🤯<br>
-Também curto e domino edições de imagens, já criei algumas mídias para redes sociais. Uso o Photoshop e a criatividade nesses casos. 😁<br>
+Tenho familiaridade com os principais conceitos e linguagens do front-end, como:
+HTML, CSS e JavaScript. 🎨💻
+Atualmente estou me aprofundando no back-end, aprimorando minha lógica de programação, criando funções e pequenos projetos usando Python. 🐍⚙️
 
-As vezes ajudo na <a href="https://b3web.com.br">B3 Web</a>, dá uma olhada.<br>
+Também gosto bastante de design gráfico — já criei diversas artes para redes sociais e projetos pessoais utilizando o Photoshop (com uma boa dose de criatividade, claro). 🎨✨
 
-<br>
+De vez em quando, colaboro com a galera da <a href="https://b3web.com.br" target="_blank">B3 Web</a>. Vale a pena dar uma olhada! 🚀
+
+</br>
 
 <div align="left">
   <a href="https://github.com/JulianpBarbosa">
@@ -25,7 +27,7 @@ As vezes ajudo na <a href="https://b3web.com.br">B3 Web</a>, dá uma olhada.<br>
 
 <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-<img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 
 <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
@@ -40,7 +42,7 @@ As vezes ajudo na <a href="https://b3web.com.br">B3 Web</a>, dá uma olhada.<br>
 <div>
   
   
-<a href="https://www.instagram.com/julian_barbosa24/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/julianpbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/willicaolho" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:barbosa.julian19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

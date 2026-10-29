@@ -12,9 +12,11 @@ De vez em quando, colaboro com a galera da <a href="https://b3web.com.br" target
 
 <br>
 
-### ⭐ Projeto em destaque
+### ⭐ Projetos em destaque
 
 **[Spotify Liquid Glass](https://github.com/julianpbarbosa/spotify-liquid-glass)**: tema de "vidro líquido" para o Spotify no Windows, feito com CSS e JavaScript sobre o Spicetify. Tem painéis translúcidos, cores que seguem a capa do álbum, aura e ondas que reagem à batida da música, capas em caixinha de CD com disco de vinil e painel responsivo.
+
+**[LoL Counter-Pick Scraper](https://github.com/julianpbarbosa/lol-counter-picker-scraper)**: bot de Discord em Python que faz web scraping em tempo real e devolve os counters de qualquer campeão de League of Legends para ajudar no Draft. Usa `requests`, `BeautifulSoup` e `discord.py`.
 
 <br>
 
@@ -41,6 +43,4 @@ De vez em quando, colaboro com a galera da <a href="https://b3web.com.br" target
 
 <div>
   <img src="https://media3.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=ecf05e47ojirlio0dxgq3r1sdkpjg9vsg6nwp6h9z387rnbb&rid=giphy.gif&ct=g">
-
-  ![Snake animation](https://github.com/julianpbarbosa/julianpbarbosa/blob/output/github-contribution-grid-snake.svg)
 </div>
